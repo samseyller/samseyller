@@ -4,8 +4,7 @@ I'm a Python enthusiast who's excited about learning programming and publishing 
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samseyller&show_icons=true&hide_rank=true&include_all_commits=true&hide=issues,contribs&hide_title=true&theme=buefy" />
-| 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=samseyller&show_icons=true&hide_rank=true&include_all_commits=true&hide=issues,contribs&hide_title=true&theme=buefy" />|
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samseyller&layout=compact&theme=buefy" /> 
 
 ## My Top Repos
