@@ -8,7 +8,7 @@ I'm a Python enthusiast who's excited about learning programming and publishing 
 
 ## My Top Repos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/samseyller/PowerShell-SysAdmin-Tools">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samseyller&repo=PowerShell-SysAdmin-Tools&theme=buefy" />
 </a>
 
