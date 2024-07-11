@@ -21,7 +21,7 @@ I'm a PowerShell & Python enthusiast who's excited about learning programming an
 <a href="https://www.credly.com/badges/a662674c-0aae-480f-a0cc-60ad763958d5/public_url"><img width="135" src="images/GoogleIT.png"></a>
 <a href="https://www.credly.com/badges/3339b6ff-5784-4454-9264-09481d510ce6/public_url"><img width="135" src="images/Aplus.png"></a>
 <a href="https://www.credly.com/badges/5a689cd8-4a0a-4019-88b3-382bdb849468/public_url"><img width="135" src="images/NetworkPlus.png"></a>
-<a href="https://www.credly.com/badges/1e9ca310-ccc2-4e72-8872-ff036ac9431c/public_url"><img width="135" src="images/SecurityPlus.png"></a>
+<a href="https://www.credly.com/badges/1e9ca310-ccc2-4e72-8872-ff036ac9431c/public_url"><img width="135" src="images/SecurityPlus.webp"></a>
 <a href="https://www.credly.com/badges/4fa5e015-5c95-4c5b-bca4-3e1094c82e1c/public_url"><img width="135" src="images/aws-certified-cloud-practitioner.png"></a>
 
 <!--
