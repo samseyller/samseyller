@@ -34,4 +34,5 @@ Here are the top languages used on GitHub. I look forward to sharing more as I p
 <a href="https://www.credly.com/badges/5a689cd8-4a0a-4019-88b3-382bdb849468/public_url"><img width="135" src="images/NetworkPlus.png"></a>
 <a href="https://www.credly.com/badges/1e9ca310-ccc2-4e72-8872-ff036ac9431c/public_url"><img width="135" src="images/SecurityPlus.webp"></a>
 <a href="https://www.credly.com/badges/d568f6c5-9d2f-4391-9201-2a010485a4be/public_url"><img width="135" src="images/comptia-pentest-ce-certification.png"></a>
+<a href="https://www.credly.com/badges/dc203be0-9bd5-436f-be5f-a9fa45da22b5/public_url"><img width="135" src="images/certified-in-cybersecurity-cc.png"></a>
 <a href="https://www.credly.com/badges/4fa5e015-5c95-4c5b-bca4-3e1094c82e1c/public_url"><img width="135" src="images/aws-certified-cloud-practitioner.png"></a>
